@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Multi-Disease-ML"
+url: [text](https://multi-disease-ml-99764ef88711.herokuapp.com/)
+excerpt: "Developed a Multi-Disease prediction website leveraging Python, Jupyter Notebook, FastAPI, and Streamlit.
+Enabled users to input parameter values and receive predictions on whether they might have specific diseases.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
